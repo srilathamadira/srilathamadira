@@ -177,9 +177,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srilathamadira&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srilathamadira&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srilathamadira&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srilathamadira&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
