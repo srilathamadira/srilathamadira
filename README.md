@@ -183,24 +183,7 @@
 
 </div>
 
----
 
-## 🎨 Creative Highlights
-
-<div align="center">
-
-| 💼 | Skill Level |
-|:---:|:---:|
-| **Full-Stack Development** | ⭐⭐⭐⭐⭐ |
-| **Machine Learning** | ⭐⭐⭐⭐☆ |
-| **Cloud Computing** | ⭐⭐⭐⭐☆ |
-| **Database Design** | ⭐⭐⭐⭐⭐ |
-| **API Development** | ⭐⭐⭐⭐⭐ |
-| **System Architecture** | ⭐⭐⭐⭐☆ |
-
-</div>
-
----
 
 ## 📬 Get In Touch!
 
