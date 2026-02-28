@@ -88,7 +88,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-[🔗 Live Demo](https://nationalsocialservice.netlify.app/) | [📂 Repository](#)
+[🔗 Live Demo](https://nationalsocialservice.netlify.app/) | [📂[Repository](https://github.com/srilathamadira/NSS) ](#)
 
 </div>
 
@@ -112,7 +112,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-[🔗 Live Demo](https://khanshostel.netlify.app/) | [📂 Repository](#)
+[🔗 Live Demo](https://khanshostel.netlify.app/) | [📂 [Repository](https://github.com/srilathamadira/financeForHostel)](#)
 
 </div>
 
