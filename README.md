@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;ML+%26+AI+Enthusiast+%F0%9F%A4%96;AWS+Cloud+Practitioner+☁️)
 
----
+
 
 ### 📱 Let's Connect!
 [![Gmail](https://img.shields.io/badge/Gmail-FF5733?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF5733)](mailto:srilathamadira3009@gmail.com)
@@ -14,7 +14,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA500)](https://leetcode.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%207601059546-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917601059546)
 
----
+
 
 </div>
 
@@ -32,7 +32,7 @@
 
 </div>
 
----
+
 
 ## 💻 Technical Skills
 
@@ -75,7 +75,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -100,7 +100,7 @@
 | 💾 | Implemented efficient data structures (HashMaps, priority queues) for request handling |
 | 📈 | Enabled horizontal scalability with stateless API design & structured middleware |
 
----
+
 
 ### 💰 **FinanceForHostel – Production Financial Dashboard**
 
@@ -124,7 +124,7 @@
 | ⏱️ | **40% reduction** in backend cold-start delay via uptime monitoring |
 | 🏗️ | Modular architecture improving code maintainability by **25%** |
 
----
+
 
 ### 🌊 **Water Quality Monitoring & Prediction System**
 
@@ -148,7 +148,7 @@
 | 📖 | **Published research** in Congress on Smart Computing Technologies (CSCT 2024) |
 | 📕 | Springer Nature eBook ISBN: **978-981-96-6250-0** |
 
----
+
 
 ## 🏆 Certifications & Achievements
 
@@ -171,17 +171,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srilathamadira&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=srilathamadira&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
-
-</div>
 
 
 
@@ -198,7 +187,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="50"> **Happy Coding!** <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="50">
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif">
 
